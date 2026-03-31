@@ -3,6 +3,7 @@ Solar Panel Install Robot
 Official Collaboration Project with ReLU ROBOTICS (蓝疆行远 https://relurobot.com)
 
 This repository hosts the SDK, simulation tools, and technical documentation for the ReLU Solar Panel Install Robot—an industry-leading Physical AI​ system designed for autonomous, large-scale photovoltaic (PV) deployment.
+![Solar Robot Overview](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vnn8hsdeBnqDKTmgGNWFmg.png)
 
 🏢 Official Partner: ReLU ROBOTICS
 
