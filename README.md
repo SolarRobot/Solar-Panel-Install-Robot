@@ -63,22 +63,6 @@ The Solar Panel Install Robot represents a **supervised autonomy** model optimiz
 
 ---
 
-## 📊 Deployment Model: Practical Implementation
-
-**On-Site Workflow:**
-1. **Transport & Setup**: Operator delivers robot to site (15-20 minutes)
-2. **Autonomous Operation**: Robot executes full installation sequence (2-3 hours)
-3. **Supervised Monitoring**: Operator oversees multiple sites via tablet
-4. **Completion & Retrieval**: Operator transports robot to next location
-
-**Supervision Interface:**
-- Real-time status dashboard
-- Automated alert system for exceptions
-- Emergency stop controls
-- Performance analytics and reporting
-
----
-
 ## 🔄 Industry Adoption Pathway
 
 **Why Companies Choose This Model:**
