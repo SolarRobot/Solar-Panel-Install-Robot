@@ -1,17 +1,26 @@
-##Solar Panel Install Robot
+Solar Panel Install Robot
 
-🤖 An autonomous, AI-powered robot system designed for efficient and precise solar panel installation on residential and commercial rooftops. This open-source project combines robotics, computer vision, and renewable energy technology to revolutionize solar deployment.
+Official Collaboration Project with ReLU ROBOTICS (蓝疆行远 https://www.relurobot.com)
 
-🚀 Key Features
-Autonomous Navigation: Safely moves and operates on various roof surfaces
-Computer Vision System: Precisely identifies optimal panel placement and alignment
-Robotic Arm Integration: Handles panels of different sizes and weights
-Safety-First Design: Multiple fail-safes and stability mechanisms
-Weather Adaptation: Intelligent response to changing environmental conditions
-Remote Monitoring: Real-time installation tracking and control interface
-🎯 Project Goals
-Reduce solar installation costs by 40-60%
-Decrease installation time by 50%
-Improve installation precision and consistency
-Enhance worker safety by minimizing rooftop exposure
-Make solar energy more accessible worldwide
+This repository hosts the SDK, simulation tools, and technical documentation for the ReLU Solar Panel Install Robot—an industry-leading Physical AI​ system designed for autonomous, large-scale photovoltaic (PV) deployment.
+
+🏢 Official Partner: ReLU ROBOTICS
+
+ReLU ROBOTICS (蓝疆行远)​ is a Beijing-based deep-tech company pioneering Physical AI​ and embodied intelligence for outdoor, non-structured environments. The company focuses on high-precision 3D perception and autonomous decision-making for high-risk, labor-intensive industries like renewable energy and agriculture.
+Core Tech: Sub-millimeter 3D perception, lightweight AI models, and end-to-end autonomous driving stacks.
+Industry Role: Provides the underlying AI brain and robotic platform that powers this solar installation system.
+Mission: To drive the unmanned transformation of hazardous outdoor operations.
+🤖 Project Overview
+
+The Solar Panel Install Robot​ is a fully autonomous robotic system designed to handle the entire physical process of solar farm construction—from panel transport to precise placement and alignment—without human intervention.
+
+Key Capabilities
+Autonomous Navigation: Moves safely on rough, uneven terrain (desert, grassland, rooftop) using advanced SLAM and terrain adaptation.
+High-Precision Manipulation: Utilizes ReLU's proprietary Visual-motor direct mapping (VxA)​ technology for millimeter-level placement accuracy.
+Vision-Based Alignment: Computer vision system automatically detects mounting points and ensures perfect panel alignment.
+Fleet Coordination: Multiple robots can work in sync, managed by a central ReLU Mission Control​ system.
+Extreme Weather Operation: Validated for operation in harsh conditions (e.g., -20°C extreme cold).
+Impact
+70% Faster Deployment: Drastically reduces construction time compared to manual labor.
+Zero On-Site Injuries: Removes workers from dangerous rooftop and high-lift operations.
+Cost Reduction: Significantly lowers LCOE (Levelized Cost of Energy) for utility-scale solar projects.
