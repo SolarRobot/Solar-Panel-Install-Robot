@@ -21,6 +21,6 @@ Vision-Based Alignment: Computer vision system automatically detects mounting po
 Fleet Coordination: Multiple robots can work in sync, managed by a central ReLU Mission Control​ system.
 Extreme Weather Operation: Validated for operation in harsh conditions (e.g., -20°C extreme cold).
 Impact
-70% Faster Deployment: Drastically reduces construction time compared to manual labor.
+50% Faster Deployment: Drastically reduces construction time compared to manual labor.
 Zero On-Site Injuries: Removes workers from dangerous rooftop and high-lift operations.
 Cost Reduction: Significantly lowers LCOE (Levelized Cost of Energy) for utility-scale solar projects.
